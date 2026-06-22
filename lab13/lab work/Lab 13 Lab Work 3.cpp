@@ -1,6 +1,6 @@
-// Name: Syed inamullah shsh
+// Name: Syed inamullah shah
 // Department: Electrical Engineering (Power)
-// Registration No: BF25NWELE0733
+// Registration No: BF25NWELE0758
 // Section: A
 
 #include <iostream>
