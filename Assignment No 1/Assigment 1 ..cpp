@@ -1,10 +1,7 @@
-        // Name : Syed inamullah shah
-        // Regisration No : 758
-        // Section : A (electrical power)
-
-
-
-
+ // Name: Syed inamullah shah
+// Department: Electrical Engineering (Power)
+// Registration No: BF25NWELE0758
+// Section: A       
 #include <iostream>
 using namespace std;
 
